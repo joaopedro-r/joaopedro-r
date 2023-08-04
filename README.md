@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
-<h3 align="center">Mobile | Back-end e Front-end | Python developer</h3>
+<h3 align="center">Mobile | Back-end e Front-end</h3>
 
 - 📫 How to reach me **jpfla270800@gmail.com**
 
